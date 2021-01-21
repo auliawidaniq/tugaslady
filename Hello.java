@@ -1,1 +1,1 @@
-class Hello {public static void main(String[] args){System.out.println("Ladylauraa: Aplikasi Java");}}
+class Hello {public static void main(String[] args){System.out.println("Ladylauraa: Aplikasi Java 2021");}}
